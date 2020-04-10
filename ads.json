@@ -1,5 +1,5 @@
 {
     "totalMaxClicks": 1,
-    "allowRateApp": true,
-    "isShowAds": false
+    "allowRateApp": false,
+    "isShowAds": true
 }
